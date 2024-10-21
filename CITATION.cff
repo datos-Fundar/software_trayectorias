@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "Si usás este repositorio, por favor citalo usando estos datos."
+license: CC-BY-NC-SA-4.0
+type: dataset
+date-released: "2024-10-31"
+
+title: >-
+  Trayectorias laborales femeninas en el sector de software: Segregación ocupacional detrás de la pantalla
+
+abstract: >-
+  Este repositorio forma parte del documento de trabajo Trayectorias laborales femeninas en el sector de software publicado por los equipos de Géneros, Datos y Política Productiva de Fundar. 
+  Aquí se disponibilizan algunas bases de datos utilizadas para la elaboración de este estudio, como los diccionarios de palabras clave para identificar roles funcionales en la industria de software. 
+  Además se publica una base anonimizada con algunos de los indicadores construidos a partir del análisis de datos de LinkedIn.
+
+repository-code: >-
+  https://github.com/datos-Fundar/software_trayectorias
+
+url: "https://fund.ar/publicacion/mapa-de-oportunidades-productivas-complejidad-economica-en-las-provincias/"
+
+identifiers:
+  - description: "Este repositorio forma parte del documento de trabajo Trayectorias laborales femeninas en el sector de software publicado por los equipos de Géneros, Datos y Política Productiva de Fundar."
+    type: doi
+    value: 10.5281/zenodo.123456 
+
+authors:
+  - given-names: "Juan Martín"
+    family-names: "Argoitia"
+    affiliation: "Fundar" 
+  - given-names: "Paula"
+    family-names: "Luvini"
+    affiliation: "Fundar"
+  - given-names: "Ángeles"
+    family-names: "Sancisi"
+    affiliation: "Fundar"
+  - given-names: "Daniela Belén"
+    family-names: "Risaro"
+    affiliation: "Fundar"  
