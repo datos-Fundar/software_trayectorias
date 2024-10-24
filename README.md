@@ -1,6 +1,7 @@
 # Trayectorias laborales femeninas en la industria del software. Códigos de la segregación ocupacional detrás de la pantalla
 
-En este repositorio se comparten los datos agregados y los diccionarios que se han utilizado para el análisis del documento **Trayectorias laborales femeninas en la industria del software. Códigos de la segregación ocupacional detrás de la pantalla** [^1]. 
+En este repositorio se comparten bases de datos inéditas y diccionarios que se han utilizado para el análisis del documento **Trayectorias laborales femeninas en la industria del software. Códigos de la segregación ocupacional detrás de la pantalla** [^1]. Este es un trabajo conjunto de las Áreas de Géneros, Datos y Política Productiva de Fundar. El estudio propone dimensionar patrones y dinámicas de la segregación de género al interior del sector de software y servicios informáticos en la Argentina, identificando inequidades que encuentran mujeres cis y trans en sus trayectorias para incorporarse al sector, ocupar roles núcleo de los procesos productivos, sostenerse en sus puestos de trabajo, ganar jerarquía y realizar transiciones laborales. 
+
 
 [^1]: [Argoitia, J.M.; Luvini, P.; Sancisi, A.; Risaro, D. (2024). Trayectorias laborales femeninas en la industria del software. Códigos de la segregación ocupacional detrás de la pantalla. Fundar.](https://fund.ar/publicacion/guia-practica-para-analizar-la-complejidad-economica-de-una-provincia/)
 
@@ -22,15 +23,22 @@ Bibtex:
 
 ```
 
-## Organización del proyecto:
+## Organización de los archivos:
 
-En [`datasets`](./datasets/) se encuentran los datos de empleo publicados por CEP XXI junto con el correspondiente diccionario de códigos y sectores de actividad.
+En [`datasets`](./datasets/) se encuentran las siguientes bases:
+- [Base Universitaria](./datasets/base_universitaria.csv): Se accedió a esta base a través de un pedido de información pública respondido por el Departamento de Información Universitaria (DIU). Cuenta con información de inscriptos, estudiantes y egresados totales por carrera, universidad y jurisdicción. Sobre esta base se trabajó en una clasificación de carreras entre No Stem, Informática y Resto de STEM.
+- [Base de perfiles de LinkedIn](./datasets/base_perfiles.csv): Se construyó esta base a partir de ciertos perfiles de dicha red social, a la que se agregaron variables de elaboración propia.
 
 En [`diccionarios`](./diccionarios/) se encuentran los diccionarios utilizados para mapear palabras clave y llegar a diversas categorías laborales, educativas y de habilidades. Los diccionarios están repartidos en las siguientes pestañas:
 - Funciones: Para identificar funciones en la estructura ocupacional, se asignaron categorías ocupacionales a los puestos sobre la base de los perfiles laborales tipificados por la [CESSI](https://cessi.org.ar/perfiles-it/). La construcción toma las definiciones sectoriales, pero fue ajustada a partir del marco teórico, una revisión bibliográfica, entrevistas a informantes, los propios datos y la búsqueda de descripciones de puestos en Google.
-- Freelance: Este diccionario fue construido internamente tras un análisis del marco teórico, una revisión bibliográfica, entrevistas a informantes y de la base de datos construida.
 - Orientación: Para identificar experiencias de educación superior con orientación en informática se consultó en agosto de 2023 la oferta de títulos de grado, intermedios, técnico-instrumental y otros pregrados sistematizados en la [Guía de Carreras de la Secretaría de Políticas Universitarias](https://guiadecarreras.siu.edu.ar/carreras_de_pregrado_y_grado.php). A los resultados de este diccionario inicial se los revisó manualmente y se agregaron algunas palabras clave que no estaban o que estaban reportadas en inglés. Asimismo se agregaron términos a excluir por tratarse de titulaciones intermedias o de profesorados.
 - Lenguajes: Para identificar lenguajes de programación, frameworks, herramientas, librerías y bases de datos se adoptaron los datos de la Encuesta de sueldos 2023.2 implementada por la comunidad [Sysarmy](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2023-2/).
+
+## Libro de código
+
+El libro de códigos contiene la documentación de estas bases de datos con una descripción detallada de sus variables.
+
+[Ir al archivo](https://github.com/datos-Fundar/software_trayectorias/blob/main/Libro%20de%20c%C3%B3digos.pdf)
 
 
 <div>&nbsp;</div>
