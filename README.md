@@ -6,18 +6,18 @@
 En este repositorio se comparten bases de datos inéditas y diccionarios que se han utilizado para el análisis del documento **Trayectorias laborales femeninas en la industria del software. Códigos de la segregación ocupacional detrás de la pantalla** [^1]. Este es un trabajo conjunto de las Áreas de Géneros, Datos y Política Productiva de Fundar. El estudio propone dimensionar patrones y dinámicas de la segregación de género al interior del sector de software y servicios informáticos en la Argentina, identificando inequidades que encuentran mujeres cis y trans en sus trayectorias para incorporarse al sector, ocupar roles núcleo de los procesos productivos, sostenerse en sus puestos de trabajo, ganar jerarquía y realizar transiciones laborales. 
 
 
-[^1]: [Argoitía, J.M.; Luvini, P.; Sancisi, A.; Risaro, D. (2024). Trayectorias laborales femeninas en la industria del software. Códigos de la segregación ocupacional detrás de la pantalla. Fundar.](https://fund.ar/publicacion/trayectorias-laborales-femeninas-en-la-industria-del-software/)
+[^1]: [Argoitia, J.M.; Luvini, P.; Sancisi, A.; Risaro, D. (2024). Trayectorias laborales femeninas en la industria del software. Códigos de la segregación ocupacional detrás de la pantalla. Fundar.](https://fund.ar/publicacion/trayectorias-laborales-femeninas-en-la-industria-del-software/)
 
 
 **Cita Sugerida:**
 ```
-Argoitía, J.M.; Luvini, P.; Sancisi, A.; Risaro, D. (2024). Trayectorias laborales femeninas en la industria del software. Códigos de la segregación ocupacional detrás de la pantalla. Fundar.
+Argoitia, J.M.; Luvini, P.; Sancisi, A.; Risaro, D. (2024). Trayectorias laborales femeninas en la industria del software. Códigos de la segregación ocupacional detrás de la pantalla. Fundar.
 ```
 
 Bibtex:
 ```bibtex
 @report{software2024datos,
-  author    = {Argoitía, J.M.; Luvini, P.; Sancisi, A.; Risaro, D.},
+  author    = {Argoitia, J.M.; Luvini, P.; Sancisi, A.; Risaro, D.},
   title     = {Trayectorias laborales femeninas en la industria del software. Códigos de la segregación ocupacional detrás de la pantalla},
   year      = {2024},
   institution = {Fundar},
