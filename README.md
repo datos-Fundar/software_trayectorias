@@ -2,6 +2,7 @@
 
 [![Alt text](https://fund.ar/wp-content/uploads/2024/10/Alwac_III_computer_1959.jpg)](https://fund.ar/publicacion/trayectorias-laborales-femeninas-en-la-industria-del-software/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14014792.svg)](https://doi.org/10.5281/zenodo.14014792)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 En este repositorio se comparten bases de datos inéditas y diccionarios que se han utilizado para el análisis del documento **Trayectorias laborales femeninas en el sector de software. Segregación ocupacional detrás de la pantalla** [^1]. Este es un trabajo conjunto de las Áreas de Géneros, Datos y Política Productiva de Fundar. El estudio propone dimensionar patrones y dinámicas de la segregación de género al interior del sector de software y servicios informáticos en la Argentina, identificando inequidades que encuentran mujeres cis y trans en sus trayectorias para incorporarse al sector, ocupar roles núcleo de los procesos productivos, sostenerse en sus puestos de trabajo, ganar jerarquía y realizar transiciones laborales. 
 
