@@ -1,6 +1,6 @@
 # Trayectorias laborales femeninas en el sector de software. Segregación ocupacional detrás de la pantalla
 
-[![Alt text](https://fund.ar/wp-content/uploads/2024/10/Alwac_III_computer_1959.jpg)](https://fund.ar/publicacion/trayectorias-laborales-femeninas-en-la-industria-del-software/)
+[![Alt text](https://fund.ar/wp-content/uploads/2024/10/softgen.jpg)](https://fund.ar/publicacion/trayectorias-laborales-femeninas-en-la-industria-del-software/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14014792.svg)](https://doi.org/10.5281/zenodo.14014792)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
