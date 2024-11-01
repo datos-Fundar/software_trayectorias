@@ -20,7 +20,7 @@ url: "https://fund.ar/publicacion/mapa-de-oportunidades-productivas-complejidad-
 identifiers:
   - description: "Este repositorio forma parte del documento de trabajo Trayectorias laborales femeninas en el sector de software publicado por los equipos de Géneros, Datos y Política Productiva de Fundar."
     type: doi
-    value: 10.5281/zenodo.123456 
+    value: 10.5281/zenodo.14014792 
 
 authors:
   - given-names: "Juan Martín"
