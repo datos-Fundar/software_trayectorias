@@ -42,7 +42,7 @@ En [`diccionarios`](./diccionarios/) se encuentran los diccionarios utilizados p
 
 El libro de códigos contiene la documentación de estas bases de datos con una descripción detallada de sus variables.
 
-[Ir al archivo](https://github.com/datos-Fundar/software_trayectorias/blob/main/Libro%20de%20c%C3%B3digos.pdf)
+[Ir al archivo](https://github.com/datos-Fundar/software_trayectorias/blob/main/libro_de_codigos.pdf)
 
 
 <div>&nbsp;</div>
